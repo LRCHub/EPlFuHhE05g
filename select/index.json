@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "C.U.R.I.O.S.I.T.Y.",
+  "base_artist": "ONE OK ROCK",
+  "createdAt": "2025-12-09T11:38:56.913100Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "C.U.R.I.O.S.I.T.Y.",
+      "artist": "ONE OK ROCK",
+      "has_synced": false,
+      "path": "select/01_C.U.R.I.O.S.I.T.Y._ONE_OK_ROCK.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "C.U.R.I.O.S.I.T.Y. (feat. Paledusk",
+      "artist": "ONE OK ROCK",
+      "has_synced": true,
+      "path": "select/02_C.U.R.I.O.S.I.T.Y._(feat._Paledusk_ONE_OK_ROCK.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "C.U.R.I.O.S.I.T.Y.",
+      "artist": "ONE OK ROCK, Paledusk & CHICO CARLITO",
+      "has_synced": true,
+      "path": "select/03_C.U.R.I.O.S.I.T.Y._ONE_OK_ROCK,_Paledusk_&_CHICO_CARLITO.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "C.U.R.I.O.S.I.T.Y.",
+      "artist": "ONE OK ROCK feat.Paledusk & CHICO CARLITO",
+      "has_synced": true,
+      "path": "select/04_C.U.R.I.O.S.I.T.Y._ONE_OK_ROCK_feat.Paledusk_&_CHICO_CARLITO.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "C.U.R.I.O.S.I.T.Y. (feat. Paledusk & CHICO CARLITO)",
+      "artist": "ONE OK ROCK",
+      "has_synced": true,
+      "path": "select/05_C.U.R.I.O.S.I.T.Y._(feat._Paledusk_&_CHICO_CARLITO)_ONE_OK_ROCK.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "C.U.R.I.O.S.I.T.Y. (feat. Paledusk and CHICO CARLITO)",
+      "artist": "ONE OK ROCK",
+      "has_synced": true,
+      "path": "select/06_C.U.R.I.O.S.I.T.Y._(feat._Paledusk_and_CHICO_CARLITO)_ONE_OK_ROCK.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "C.U.R.I.O.S.I.T.Y. (feat. CHICO CARLITO and Paledusk)",
+      "artist": "ONE OK ROCK",
+      "has_synced": true,
+      "path": "select/07_C.U.R.I.O.S.I.T.Y._(feat._CHICO_CARLITO_and_Paledusk)_ONE_OK_ROCK.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "C.U.R.I.O.S.I.T.Y. (feat. Paledusk and CHICO CARLITO)",
+      "artist": "ONE OK ROCK",
+      "has_synced": true,
+      "path": "select/08_C.U.R.I.O.S.I.T.Y._(feat._Paledusk_and_CHICO_CARLITO)_ONE_OK_ROCK.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "C.U.R.I.O.S.I.T.Y. (feat. Paledusk and CHICO CARLITO)",
+      "artist": "ONE OK ROCK, Paledusk & CHICO CARLITO",
+      "has_synced": true,
+      "path": "select/09_C.U.R.I.O.S.I.T.Y._(feat._Paledusk_and_CHICO_CARLITO)_ONE_OK_ROCK,_Paledusk_&_CHICO_CARLITO.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "C.U.R.I.O.S.I.T.Y. feat. Paledusk and CHICO CARLITO",
+      "artist": "ONE OK ROCK",
+      "has_synced": false,
+      "path": "select/pl_01_C.U.R.I.O.S.I.T.Y._feat._Paledusk_and_CHICO_CARLITO_ONE_OK_ROCK.txt"
+    }
+  ]
+}
